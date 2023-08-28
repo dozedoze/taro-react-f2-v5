@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "taro3-hooks-f2",
+  "description": "taro3.x hooks + f2 v5.x",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
